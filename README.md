@@ -1,4 +1,9 @@
-###  Oi eu sou o Douglas, atualmente estudante HTML, CCS, JavaScript
+
+<h1 align="center"><img src="https://github.com/kaueMarques/kaueMarques/raw/master/hi.gif" height="30"width="30px">Hello my name is Douglas!</h1>
+<p align="center">
+  
+
+
 <div align="center">
   <a href="https://github.com/douglaslucasoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglaslucasoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
