@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Hello my name is Douglas!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=681db3&height=180&section=header&text=Hello my name is Douglas!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 <h1 align="center"><img src="https://github.com/kaueMarques/kaueMarques/raw/master/hi.gif" height="120"width="30px"></h1>
 <p align="center">
