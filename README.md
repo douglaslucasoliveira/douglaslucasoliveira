@@ -1,11 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Hello my name is Douglas!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-<h1 align="center"><img src="https://github.com/kaueMarques/kaueMarques/raw/master/hi.gif" height="30"width="30px">Hello my name is DOUGLAS!</h1>
+<h1 align="center"><img src="https://github.com/kaueMarques/kaueMarques/raw/master/hi.gif" height="120"width="30px"></h1>
 <p align="center">
   
-<div align="center">
-  <a href="https://github.com/douglaslucasoliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglaslucasoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslucasoliveira&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=douglaslucasoliveira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Douglas github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslucasoliveira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 
